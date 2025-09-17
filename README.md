@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvoXerx&show_icons=true&theme=radical&hide_border=true" alt="EvoXerx's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa.vercel.app/api?username=EvoXerx&show_icons=true&theme=radical&hide_border=true" alt="EvoXerx's GitHub Stats"     height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EvoXerx&theme=radical&hide_border=true" alt="EvoXerx's GitHub Streak" height="170" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvoXerx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="120" />
