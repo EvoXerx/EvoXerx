@@ -22,7 +22,7 @@
 
 <!-- Édite la liste i=... : retire ce que tu n'utilises pas, ajoute le reste (icônes : skillicons.dev) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,flutter,dart,cs,php,java,git,vscode,lua,C#&theme=dark&perline=8" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,flutter,dart,cs,php,java,lua,C#&theme=dark&perline=8" alt="Stack" />
 </p>
 
 ## 📊 Statistiques
