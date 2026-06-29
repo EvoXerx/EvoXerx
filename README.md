@@ -2,7 +2,7 @@
 
 <!-- Banniere animee. Commit le fichier ca-animation.svg a la racine de ton repo. -->
 <p align="center">
-  <img src="ca-animation.svg" width="100%" alt="Clown" />
+  <img src="ca-animation (1).svg" width="100%" alt="Clown" />
 </p>
 
 <p align="center">
